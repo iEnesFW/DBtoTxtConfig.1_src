@@ -1,0 +1,4 @@
+C:\Users\Deja45Vu\documents\visual studio 2010\Projects\_DBtoMedia_1.1\_DBtoMedia_1.1\bin\Release\_DBtoMedia_1.1.exe
+C:\Users\Deja45Vu\documents\visual studio 2010\Projects\_DBtoMedia_1.1\_DBtoMedia_1.1\bin\Release\_DBtoMedia_1.1.pdb
+C:\Users\Deja45Vu\documents\visual studio 2010\Projects\_DBtoMedia_1.1\_DBtoMedia_1.1\obj\x86\Release\_DBtoMedia_1.1.exe
+C:\Users\Deja45Vu\documents\visual studio 2010\Projects\_DBtoMedia_1.1\_DBtoMedia_1.1\obj\x86\Release\_DBtoMedia_1.1.pdb

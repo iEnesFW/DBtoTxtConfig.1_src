@@ -1,0 +1,7 @@
+C:\Users\Enes\Desktop\github\_DBtoMedia_1.1_src\bin\Debug\_DBtoMedia_1.1.exe.config
+C:\Users\Enes\Desktop\github\_DBtoMedia_1.1_src\bin\Debug\_DBtoMedia_1.1.exe
+C:\Users\Enes\Desktop\github\_DBtoMedia_1.1_src\bin\Debug\_DBtoMedia_1.1.pdb
+C:\Users\Enes\Desktop\github\_DBtoMedia_1.1_src\obj\x86\Debug\DBtoTxtConfig.csproj.AssemblyReference.cache
+C:\Users\Enes\Desktop\github\_DBtoMedia_1.1_src\obj\x86\Debug\DBtoTxtConfig.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\github\_DBtoMedia_1.1_src\obj\x86\Debug\_DBtoMedia_1.1.exe
+C:\Users\Enes\Desktop\github\_DBtoMedia_1.1_src\obj\x86\Debug\_DBtoMedia_1.1.pdb

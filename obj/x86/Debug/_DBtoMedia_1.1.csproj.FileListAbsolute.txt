@@ -1,0 +1,12 @@
+C:\Users\Deja45Vu\documents\visual studio 2010\Projects\_DBtoMedia_1.1\_DBtoMedia_1.1\bin\Debug\_DBtoMedia_1.1.exe
+C:\Users\Deja45Vu\documents\visual studio 2010\Projects\_DBtoMedia_1.1\_DBtoMedia_1.1\bin\Debug\_DBtoMedia_1.1.pdb
+C:\Users\Deja45Vu\documents\visual studio 2010\Projects\_DBtoMedia_1.1\_DBtoMedia_1.1\obj\x86\Debug\_DBtoMedia_1.1.exe
+C:\Users\Deja45Vu\documents\visual studio 2010\Projects\_DBtoMedia_1.1\_DBtoMedia_1.1\obj\x86\Debug\_DBtoMedia_1.1.pdb
+C:\Users\Deja45Vu\documents\visual studio 2010\Projects\_DBtoMedia_1.1\_DBtoMedia_1.1\obj\x86\Debug\_DBtoMedia_1.1.csprojResolveAssemblyReference.cache
+C:\Users\Enes\Desktop\github\_DBtoMedia_1.1_src\bin\Debug\_DBtoMedia_1.1.exe.config
+C:\Users\Enes\Desktop\github\_DBtoMedia_1.1_src\bin\Debug\_DBtoMedia_1.1.exe
+C:\Users\Enes\Desktop\github\_DBtoMedia_1.1_src\bin\Debug\_DBtoMedia_1.1.pdb
+C:\Users\Enes\Desktop\github\_DBtoMedia_1.1_src\obj\x86\Debug\_DBtoMedia_1.1.csproj.AssemblyReference.cache
+C:\Users\Enes\Desktop\github\_DBtoMedia_1.1_src\obj\x86\Debug\_DBtoMedia_1.1.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\github\_DBtoMedia_1.1_src\obj\x86\Debug\_DBtoMedia_1.1.exe
+C:\Users\Enes\Desktop\github\_DBtoMedia_1.1_src\obj\x86\Debug\_DBtoMedia_1.1.pdb
